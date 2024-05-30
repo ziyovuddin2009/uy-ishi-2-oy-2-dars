@@ -1,0 +1,28 @@
+h1{
+    background-color: peru;
+    margin: 0 auto;
+    width: 300px;
+    text-align: center;
+}
+.qizil{
+    background-color: black;
+    border: 6px solid red;
+    width: 800px;
+    margin: 20px auto;
+    height: 500px;
+    margin-top: 20px;
+}
+.yashil{
+    background-color: aquamarine;
+    width: 500px;
+    height: 200px;
+    margin:  20px auto;
+    padding: 10px 10px ;
+}
+.kok{
+    background-color: aquamarine;
+    width: 500px;
+    height: 200px;
+    margin:  20px auto;
+    padding: 10px 10px;
+}
